@@ -6,7 +6,7 @@ I'm Vipul, a Computer Science student on a journey of continuous learning and co
 - 🌱 Learning Kotlin Multiplatform with a passion for cross-platform development.
 - 😂 Here's a joke for you:
 
-![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=watermelon&borderColor=%23D6DEEB&bgColor=%23011627)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=watermelon)
 
 ## Languages
 
